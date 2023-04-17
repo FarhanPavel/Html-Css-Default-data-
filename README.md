@@ -1,7 +1,7 @@
 # Html-Css-Default-data-
 Important Data to make a website Responsive
 /* For desktop: */
-.col-1 {width: 8.33%;}
+<div>.col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
 .col-4 {width: 33.33%;}
@@ -14,7 +14,7 @@ Important Data to make a website Responsive
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
-
+</div>
 mobile.css
 
 
